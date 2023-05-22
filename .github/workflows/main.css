@@ -1,0 +1,49 @@
+body {
+	background-color: #2F3336;
+	color: #efefef;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 50px;
+	margin-top: 10px;
+	color: white
+}
+
+
+h2 {
+	font-size: 15px;
+	font-weight: 700;
+	color: #000000;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
+
+
+
+p {
+	font-size: 10px;
+	color: white;
+	text-align: center !important;
+}
+
+
+a {
+	text-decoration: none !important;
+	color: white;
+}
+
+
+.first:hover {
+	text-decoration: underline !important;
+	color: white !important;
+}
+
+a:hover {
+	text-decoration: underline !important;
+	color: black;
+}
+
+#Bock {}
+
+.Tiles {
+	text-align: center !important;
+}
